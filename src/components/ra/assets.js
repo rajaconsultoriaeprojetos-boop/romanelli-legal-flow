@@ -1,0 +1,10 @@
+export const LOGO_URL = "/images/logo-horizontal.jpeg";
+export const LOGO_VERTICAL_URL = "/images/logo-vertical.jpeg";
+export const LOGO_LIGHT_URL = "";
+export const LAIS_PHOTO_URL = "/images/lais-romanelli.jpeg";
+export const HERO_BG_URL = "/images/hero-bg.png";
+export const HERO_CINEMATIC_URL = "/images/hero-cinematic.jpeg";
+export const ASSOCIATE_PHOTO_URL = "/images/karla-risolo.jpeg";
+export const ASSOCIATE_NAME = "Karla Risolo Barbosa Martins";
+export const ASSOCIATE_ROLE = "Advogada associada";
+export const WHATSAPP_LOGO_URL = "/images/whatsapp.png";
